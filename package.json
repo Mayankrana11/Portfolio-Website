@@ -1,0 +1,10 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "parcel build src/index.html --dist-dir build"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
